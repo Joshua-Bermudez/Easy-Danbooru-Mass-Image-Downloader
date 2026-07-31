@@ -24,3 +24,6 @@ replace the default=25 in line 125 to how many you want to download
 
 replace the default="general" to the choices you have in line 127. 
 for example: from  default="general" to  default="sensitive"
+
+# COMING SOON!
+UI for each contents for easier use
