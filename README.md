@@ -1,5 +1,11 @@
 # Easy-Danbooru-Mass-Image-Downloader
 
+Need to download lots of images in danbooru with specific tags? this script will help you automate that process just by doing simple things!
+
+
+
+
+
 
 # HOW TO RUN
 just bash this to your folder's terminal: 
